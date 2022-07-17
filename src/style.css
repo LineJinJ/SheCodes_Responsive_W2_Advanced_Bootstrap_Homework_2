@@ -90,3 +90,47 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.yoga-app {
+  text-align: start;
+}
+
+.yoga-text {
+  text-align: start;
+}
+
+.yoga-link {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  color: white;
+  text-align: start;
+}
+
+.weather-link {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  color: white;
+  text-align: start;
+}
+
+.yoghurt-link {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  color: white;
+  text-align: start;
+}
