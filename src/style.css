@@ -45,11 +45,13 @@ p {
 }
 
 .navigation-links a {
-  margin: 20px;
+  margin: 40px 20px 48px;
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
+  display: flex;
+  justify-content: center;
 }
 
 .contact-link {
@@ -133,4 +135,9 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
   text-align: start;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
 }
